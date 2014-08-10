@@ -1,34 +1,36 @@
 {
-"name": "validatestrictly",
-"title": "jQuery ValidateStrictly",
-"description": "A JQuery Plugin for Inputs with Parameters",
-"keywords": [
-"validation",
-"validate"
-],
-"version": "1.1.0",
-"author": {
-"name": "Barış Güler",
-"url": "https://github.com/hwclass/jquery.validatestrictly/AUTHORS.txt"
-},
-"maintainers": [
-{
-"name": "Barış Güler",
-"email": "harderworking.class@gmail.com",
-"url": "hwclass.github.io"
-}
-],
-"licenses": [
-{
-"type": "MIT",
-"url": "https://github.com/hwclass/jquery.validatestrictly/blob/master/LICENSE.txt"
-}
-],
-"bugs": "https://github.com/hwclass/jquery.validatestrictly/issues",
-"homepage": "https://github.com/hwclass/jquery.validatestrictly",
-"docs": "https://github.com/hwclass/jquery.validatestrictly",
-"download": "https://www.github.com/hwclass/jquery.validatestrictly/archive/master.zip",
-"dependencies": {
-"jquery": ">=1.5"
-}
+	"name": "center",
+	"title": "jQuery Center",
+	"description": "A JQuery Plugin That Centers Any Kind of HTML Elements",
+	"keywords": [
+		"center",
+		"element",
+		"element",
+		"css"
+	],
+	"version": "1.0.0",
+	"author": {
+		"name": "Barış Güler",
+		"url": "https://github.com/hwclass/jquery.center/AUTHORS.txt"
+	},
+	"maintainers": [ 
+		{
+			"name": "Barış Güler",
+			"email": "harderworking.class@gmail.com",
+			"url": "hwclass.github.io"
+		}
+	],
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/hwclass/jquery.center/blob/master/LICENSE.txt"
+		}
+	],
+		"bugs": "https://github.com/hwclass/jquery.center/issues",
+		"homepage": "https://github.com/hwclass/jquery.center",
+		"docs": "https://github.com/hwclass/jquery.center",
+		"download": "https://www.github.com/hwclass/jquery.center/archive/master.zip",
+		"dependencies": {
+		"jquery": ">=1.5"
+	}
 }
